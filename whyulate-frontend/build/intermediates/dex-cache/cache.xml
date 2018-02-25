@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/michalgraczykowski/Desktop/whyulate/WhyULate/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/michalgraczykowski/Desktop/whyulate/WhyULate/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_557d8e28289ee5f60974910b4e755344508b855e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michalgraczykowski/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/michalgraczykowski/Desktop/whyulate/WhyULate/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_559c70e9626171c9af42611d0f1ff73e367677d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michalgraczykowski/.android/build-cache/62f5b840508b629afabd267b627e5cfe91fa894b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/michalgraczykowski/Desktop/whyulate/WhyULate/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c82396d084ba53fbb2eeb6aa57a026f6562a5e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michalgraczykowski/Desktop/whyulate/WhyULate/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="436d91162444144fe4e311c6e85addc3a164cb7a">
+        <dex dex="/Users/michalgraczykowski/Desktop/whyulate/WhyULate/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ccee6d598eca339fb19096379e24846f1b8ca7ef/classes.dex" />
+    </item>
+
+</items>
